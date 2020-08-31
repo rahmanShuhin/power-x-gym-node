@@ -1,0 +1,22 @@
+{
+  "name": "power-x-gym-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9",
+    "node-localstorage": "^2.1.6",
+    "nodemon": "^2.0.4",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
